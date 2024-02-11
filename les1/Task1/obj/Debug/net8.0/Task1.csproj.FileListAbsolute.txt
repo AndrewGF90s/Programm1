@@ -12,3 +12,4 @@ C:\Users\Андрей\Desktop\GitAndy\Prorgamm\les1\Task1\obj\Debug\net8.0\refin
 C:\Users\Андрей\Desktop\GitAndy\Prorgamm\les1\Task1\obj\Debug\net8.0\Task1.pdb
 C:\Users\Андрей\Desktop\GitAndy\Prorgamm\les1\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
 C:\Users\Андрей\Desktop\GitAndy\Prorgamm\les1\Task1\obj\Debug\net8.0\ref\Task1.dll
+C:\Users\Андрей\Desktop\GitAndy\Prorgamm\les1\Task1\obj\Debug\net8.0\Task1.sourcelink.json
